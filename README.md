@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [pokhrelankit.com.np](pokhrelankit.com.np)
+- 👨‍💻 All of my projects are available at pokhrelankit.com.np
 
 - 📫 How to reach me **pokhrelankit2060@gmail.com**
 
