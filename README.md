@@ -4,4 +4,4 @@
 
 
 <h3 align="center">Visit my Original Account for latest updates</h3>
-Click here: **https://github.com/ankitpokhrel08**
+<h3 align="center">Visit: https://github.com/ankitpokhrel08</h3>
