@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Pokhrel</h1>
-<h4 align="center">This account is not active now !!</h4>
+<h2 align="center">This account is not active now !!</h2>
 
 
 
